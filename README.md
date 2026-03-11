@@ -4,10 +4,10 @@
 public class ChanchalMishra {
 
     private final String name        = "Chanchal Mishra";
-    private final String role        = "Backend Software Engineer";
-    private final String company     = "Incedo Inc.";
+    private final String role        = "Senior Software Developer";
+    private final String currentOrg  = "Incedo Inc.";
     private final String location    = "New Delhi, India 🇮🇳";
-    private final String[] focus     = {"Java", "Microservices", "System Design"};
+    private final String[] focus     = {"Java/Spring", "Microservices", "System Design","Database"};
     private final String blog        = "medium.com/@mishra-ck";
     private final boolean openToWork = true;
 
