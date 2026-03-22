@@ -1,88 +1,230 @@
-## 👨‍💻 About Me
+<div align="center">
+
+<!-- ═══════════════════════════ ANIMATED HEADER ═══════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chanchal%20Mishra&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Software%20Developer%20%7C%20Backend%20Craftsman&descAlignY=58&descSize=18" width="100%"/>
+
+<!-- ═══════════════════════════ TYPING ANIMATION ═══════════════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=☕+Coffee+→+Scalable+Backend+Systems;🏗️+Microservices+Architect;🔐+Spring+Security+%7C+JWT+%7C+OAuth2;📦+Kafka+%7C+Redis+%7C+PostgreSQL;🚀+Turning+Ideas+into+Production+Code)](https://git.io/typing-svg)
+
+<!-- ═══════════════════════════ PROFILE VIEWS & FOLLOW ═══════════════════════════ -->
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mishra-ck&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/mishra-ck)
+[![GitHub followers](https://img.shields.io/github/followers/mishra-ck?style=for-the-badge&color=1DA1F2&logo=github&label=FOLLOWERS)](https://github.com/mishra-ck?tab=followers)
+[![Medium](https://img.shields.io/badge/Medium-@mishra--ck-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mishra-ck)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
+
+## 🧑‍💻 &nbsp; `About Me`
 
 ```java
 public class ChanchalMishra {
 
-    private final String name        = "Chanchal Mishra";
-    private final String role        = "Senior Software Developer";
-    private final String currentOrg  = "Incedo Inc.";
-    private final String location    = "New Delhi, India 🇮🇳";
-    private final String[] focus     = {"Java/Spring", "Microservices", "System Design","Database"};
-    private final String blog        = "medium.com/@mishra-ck";
-    private final boolean openToWork = true;
+    private final String  name        = "Chanchal Mishra";
+    private final String  role        = "Senior Software Developer";
+    private final String  company     = "Incedo Inc.";
+    private final String  location    = "New Delhi, India 🇮🇳";
+    private final String  blog        = "medium.com/@mishra-ck";
+    private final boolean openToWork  = true;
+
+    private final String[] currentFocus = {
+        "Java 21 & Virtual Threads",
+        "Event-Driven Microservices (Kafka)",
+        "System Design at Scale",
+        "Cloud-Native with AWS + K8s"
+    };
 
     public String getMotivation() {
-        return "Turning coffee ☕ into scalable backend systems, one commit at a time.";
+        return "Turning ☕ coffee into scalable backend systems, one commit at a time.";
     }
 
     public String getFunFact() {
-        return "I don't always push to production, but when I do... it's Friday at 5pm 😎";
+        return "I don't always push to production… but when I do, it's Friday at 5 PM 😎";
     }
 }
 ```
 
+<br>
+
+<table>
+  <tr>
+    <td>🔭 &nbsp; Currently building</td>
+    <td>Event-driven payment microservices with Kafka + Spring Boot</td>
+  </tr>
+  <tr>
+    <td>🌱 &nbsp; Exploring</td>
+    <td>Java 21 Virtual Threads, GraalVM Native Image, Spring AI</td>
+  </tr>
+  <tr>
+    <td>👯 &nbsp; Open to collaborate</td>
+    <td>Open-source Java / Spring ecosystem projects</td>
+  </tr>
+  <tr>
+    <td>📝 &nbsp; Writing about</td>
+    <td>System Design, Java internals, Backend best practices</td>
+  </tr>
+  <tr>
+    <td>📫 &nbsp; Reach me at</td>
+    <td><a href="https://medium.com/@mishra-ck">medium.com/@mishra-ck</a></td>
+  </tr>
+</table>
+
 ---
 
-## 🛠️ Tech Stack & Tools
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
-### ☕ Core — Java Ecosystem
+## 🛠️ &nbsp; Tech Arsenal
+
+### ☕ &nbsp; Core — Java Ecosystem
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-C71A36?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=java&logoColor=black"/>
 </p>
 
-### 🏗️ Architecture & Design
+### 🏗️ &nbsp; Architecture & Design
+
 <p align="left">
   <img src="https://img.shields.io/badge/Microservices-FF6B35?style=for-the-badge&logo=consul&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System_Design-6A0DAD?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design_Patterns-FF4500?style=for-the-badge&logo=abstract&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Event_Driven-6A0DAD?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Design-FF4500?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design_Patterns-00897B?style=for-the-badge&logo=abstract&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CQRS-8E24AA?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-### 💾 Databases & Messaging
+### 💾 &nbsp; Databases & Messaging
+
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 </p>
 
-### ☁️ DevOps & Cloud
+### ☁️ &nbsp; DevOps, Cloud & Infra
+
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
 ---
-## 📝 Latest Blog Posts on Medium
 
-📖 Read all my articles → [medium.com/@mishra-ck](https://medium.com/@mishra-ck)
+<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mishra-ck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishra-ck&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-ck&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" width="70%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishra-ck&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35" width="95%"/>
+</div>
 
 ---
 
-## 📌 Featured Projects
+<!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
+
+## 🚀 &nbsp; Featured Projects
 
 <div align="center">
 
   <a href="https://github.com/mishra-ck/payment-gateway">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishra-ck&repo=payment-gateway&theme=gruvbox&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishra-ck&repo=payment-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF"/>
   </a>
   <a href="https://github.com/mishra-ck/java-version-wise">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishra-ck&repo=java-version-wise&theme=gruvbox&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishra-ck&repo=java-version-wise&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF"/>
   </a>
+
   <a href="https://github.com/mishra-ck/Core-Java">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishra-ck&repo=Core-Java&theme=gruvbox&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishra-ck&repo=Core-Java&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF"/>
   </a>
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════ BLOG POSTS ═══════════════════════════ -->
+
+## ✍️ &nbsp; Latest from My Blog
+
+<!-- BLOG-POST-LIST:START -->
+> 🔄 *Auto-updated via GitHub Actions workflow — add `blog-post-workflow` to keep this live!*
+<!-- BLOG-POST-LIST:END -->
+
+📖 &nbsp; Read all articles → **[medium.com/@mishra-ck](https://medium.com/@mishra-ck)**
+
+---
+
+<!-- ═══════════════════════════ CONTRIBUTION SNAKE ═══════════════════════════ -->
+
+## 🐍 &nbsp; Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mishra-ck/mishra-ck/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mishra-ck/mishra-ck/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mishra-ck/mishra-ck/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  </picture>
+</div>
+
+> 💡 *To enable the snake, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo.*
+
+---
+
+<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
+
+## 🤝 &nbsp; Let's Connect
+
+<div align="center">
+
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mishra-ck)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mishra-ck)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishra-ck)
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
