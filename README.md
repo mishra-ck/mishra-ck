@@ -183,27 +183,7 @@ public class ChanchalMishra {
 
 ## ✍️ &nbsp; Latest from My Blog
 
-<!-- BLOG-POST-LIST:START -->
-> 🔄 *Auto-updated via GitHub Actions workflow — add `blog-post-workflow` to keep this live!*
-<!-- BLOG-POST-LIST:END -->
-
 📖 &nbsp; Read all articles → **[medium.com/@mishra-ck](https://medium.com/@mishra-ck)**
-
----
-
-<!-- ═══════════════════════════ CONTRIBUTION SNAKE ═══════════════════════════ -->
-
-## 🐍 &nbsp; Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mishra-ck/mishra-ck/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mishra-ck/mishra-ck/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mishra-ck/mishra-ck/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-  </picture>
-</div>
-
-> 💡 *To enable the snake, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo.*
 
 ---
 
