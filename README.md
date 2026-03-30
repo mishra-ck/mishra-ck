@@ -35,19 +35,12 @@ public class ChanchalMishra {
     private final boolean openToWork  = true;
 
     private final String[] currentFocus = {
-        "Java 21 & Virtual Threads",
-        "Event-Driven Microservices (Kafka)",
-        "System Design at Scale",
-        "Cloud-Native with AWS + K8s"
+        "Java 25 & Concurrency - Virtual Threads",
+        "Microservices Implementation Patterns (Saga/Event-Driven)",
+        "System Design & Software Architecture",
+        "Database Design and Internal Implementation",
+        "DevOps Docker/K8s/AWS"
     };
-
-    public String getMotivation() {
-        return "Turning ☕ coffee into scalable backend systems, one commit at a time.";
-    }
-
-    public String getFunFact() {
-        return "I don't always push to production… but when I do, it's Friday at 5 PM 😎";
-    }
 }
 ```
 
@@ -56,11 +49,11 @@ public class ChanchalMishra {
 <table>
   <tr>
     <td>🔭 &nbsp; Currently building</td>
-    <td>Event-driven payment microservices with Kafka + Spring Boot</td>
+    <td>Payment gateway microservices with Kafka + Spring Boot</td>
   </tr>
   <tr>
     <td>🌱 &nbsp; Exploring</td>
-    <td>Java 21 Virtual Threads, GraalVM Native Image, Spring AI</td>
+    <td>Java 21+ Virtual Threads, GraalVM Native Image, Spring AI</td>
   </tr>
   <tr>
     <td>👯 &nbsp; Open to collaborate</td>
@@ -68,7 +61,7 @@ public class ChanchalMishra {
   </tr>
   <tr>
     <td>📝 &nbsp; Writing about</td>
-    <td>System Design, Java internals, Backend best practices</td>
+    <td>System Design, Core Java Concepts, Backend best practices</td>
   </tr>
   <tr>
     <td>📫 &nbsp; Reach me at</td>
