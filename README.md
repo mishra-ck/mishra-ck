@@ -61,11 +61,11 @@ public class ChanchalMishra {
   </tr>
   <tr>
     <td>📝 &nbsp; Writing about</td>
-    <td><a href="https://medium.com/@mishra-ck">Java-Spring,System Design,Database,Microservices</td>
+    <td><a href="https://medium.com/@mishra-ck">📝 Java-Spring,System Design,Database,Microservices</td>
   </tr>
   <tr>
     <td>📫 &nbsp; Reach me at</td>
-    <td><a href="https://www.linkedin.com/in/chanchal-mishra-744024124/">Chanchal Mishra</a></td>
+    <td><a href="https://www.linkedin.com/in/chanchal-mishra-744024124/">🤝 Chanchal Mishra</a></td>
   </tr>
 </table>
 
