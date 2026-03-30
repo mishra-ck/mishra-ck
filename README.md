@@ -61,7 +61,7 @@ public class ChanchalMishra {
   </tr>
   <tr>
     <td>📝 &nbsp; Writing about</td>
-    <td>System Design, Core Java Concepts, Backend best practices</td>
+    <td><a href="https://medium.com/@mishra-ck">Java-Spring,System Design,Database,Microservices</td>
   </tr>
   <tr>
     <td>📫 &nbsp; Reach me at</td>
