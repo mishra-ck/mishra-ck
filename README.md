@@ -65,7 +65,7 @@ public class ChanchalMishra {
   </tr>
   <tr>
     <td>📫 &nbsp; Reach me at</td>
-    <td><a href="https://medium.com/@mishra-ck">medium.com/@mishra-ck</a></td>
+    <td><a href="https://www.linkedin.com/in/chanchal-mishra-744024124/">medium.com/@mishra-ck</a></td>
   </tr>
 </table>
 
