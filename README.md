@@ -11,7 +11,8 @@
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 
 ## 🧑‍💻 &nbsp; `About Me`
-```
+
+<pre><code>
 public class ChanchalMishra {
 
     private final String  name        = "Chanchal Mishra";
@@ -29,7 +30,8 @@ public class ChanchalMishra {
         "DevOps Docker/K8s/AWS"
     };
 }
-```
+
+</code></pre>
 
 <br>
 
