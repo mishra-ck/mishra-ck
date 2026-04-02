@@ -10,7 +10,7 @@
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 
-## 🧑‍💻 &nbsp; `About Me`
+## 🧑‍💻 `About Me`
 
 ```java
 public class ChanchalMishra {
