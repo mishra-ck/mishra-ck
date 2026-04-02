@@ -6,19 +6,7 @@
 
 <!-- ═══════════════════════════ TYPING ANIMATION ═══════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=☕+Coffee+→+Scalable+Backend+Systems;🏗️+Microservices+Architect;🔐+Spring+Security+%7C+JWT+%7C+OAuth2;📦+Kafka+%7C+Redis+%7C+PostgreSQL;🚀+Turning+Ideas+into+Production+Code)](https://git.io/typing-svg)
-
-<!-- ═══════════════════════════ PROFILE VIEWS & FOLLOW ═══════════════════════════ -->
-
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=mishra-ck&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/mishra-ck)
-[![GitHub followers](https://img.shields.io/github/followers/mishra-ck?style=for-the-badge&color=1DA1F2&logo=github&label=FOLLOWERS)](https://github.com/mishra-ck?tab=followers)
-[![Medium](https://img.shields.io/badge/Medium-@mishra--ck-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mishra-ck)
-
-</div>
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=☕+Coffee+→+Scalable+Backend+Systems;🏗️+Microservices+Architect;🔐+Spring+Security+%7C+JWT+%7C+OAuth2;📦+Kafka+%7C+Redis+%7C+PostgreSQL;)](https://git.io/typing-svg)
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 
@@ -159,9 +147,6 @@ public class ChanchalMishra {
 
   <a href="https://github.com/mishra-ck/payment-gateway">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishra-ck&repo=payment-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF"/>
-  </a>
-  <a href="https://github.com/mishra-ck/java-version-wise">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishra-ck&repo=java-version-wise&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF"/>
   </a>
 
   <a href="https://github.com/mishra-ck/Core-Java">
