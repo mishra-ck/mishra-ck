@@ -14,13 +14,6 @@
 
 <div align="center">
   <table style="border-collapse: collapse; width: 100%; max-width: 700px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; background-color: #0d1117; color: #c9d1d9;">
-    <thead>
-      <tr style="background-color: #161b22; border-bottom: 2px solid #30363d;">
-        <th colspan="2" style="padding: 15px; font-size: 1.25rem; text-align: left; color: #58a6ff;">
-          👨‍💻 About Me.
-        </th>
-      </tr>
-    </thead>
     <tbody>
       <tr>
         <td style="padding: 12px 15px; width: 30%; font-weight: 600; color: #8b949e; border-bottom: 1px solid #21262d;">Name</td>
