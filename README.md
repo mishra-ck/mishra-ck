@@ -12,26 +12,60 @@
 
 ## 🧑‍💻 `About Me`
 
-```java
-public class ChanchalMishra {
+<div align="center">
+  <table style="border-collapse: collapse; width: 100%; max-width: 700px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; background-color: #0d1117; color: #c9d1d9;">
+    <thead>
+      <tr style="background-color: #161b22; border-bottom: 2px solid #30363d;">
+        <th colspan="2" style="padding: 15px; font-size: 1.25rem; text-align: left; color: #58a6ff;">
+          👨‍💻 About Me.
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px 15px; width: 30%; font-weight: 600; color: #8b949e; border-bottom: 1px solid #21262d;">Name</td>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #21262d;">Chanchal Mishra</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px 15px; font-weight: 600; color: #8b949e; border-bottom: 1px solid #21262d;">Role</td>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #21262d;">Senior Software Developer</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px 15px; font-weight: 600; color: #8b949e; border-bottom: 1px solid #21262d;">Company</td>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #21262d;">Incedo Inc.</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px 15px; font-weight: 600; color: #8b949e; border-bottom: 1px solid #21262d;">Location</td>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #21262d;">New Delhi, India 🇮🇳</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px 15px; font-weight: 600; color: #8b949e; border-bottom: 1px solid #21262d;">Technical Blog</td>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #21262d;">
+          <a href="https://medium.com/@mishra-ck" style="color: #58a6ff; text-decoration: none;">medium.com/@mishra-ck</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px 15px; font-weight: 600; color: #8b949e; border-bottom: 1px solid #21262d;">Open to Work</td>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #21262d;">
+          <code style="background-color: rgba(56, 239, 125, 0.15); color: #3fb950; padding: 2px 6px; border-radius: 5px; font-size: 0.9em;">true</code>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px 15px; font-weight: 600; color: #8b949e; vertical-align: top;">Current Focus</td>
+        <td style="padding: 12px 15px;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: square; line-height: 1.6;">
+            <li>Java 25 & Concurrency - Virtual Threads</li>
+            <li>Microservices Implementation Patterns (Saga/Event-Driven)</li>
+            <li>System Design & Software Architecture</li>
+            <li>Database Design and Internal Implementation</li>
+            <li>DevOps Docker/K8s/AWS</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-    private final String  name        = "Chanchal Mishra";
-    private final String  role        = "Senior Software Developer";
-    private final String  company     = "Incedo Inc.";
-    private final String  location    = "New Delhi, India 🇮🇳";
-    private final String  blog        = "medium.com/@mishra-ck";
-    private final boolean openToWork  = true;
-
-    private final String[] currentFocus = {
-        "Java 25 & Concurrency - Virtual Threads",
-        "Microservices Implementation Patterns (Saga/Event-Driven)",
-        "System Design & Software Architecture",
-        "Database Design and Internal Implementation",
-        "DevOps Docker/K8s/AWS"
-    };
-}
-
-```
 
 <br>
 
