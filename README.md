@@ -11,7 +11,6 @@
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 
 ## 🧑‍💻 &nbsp; `About Me`
-<div style="text-align: left;">
 ```
 public class ChanchalMishra {
 
@@ -31,7 +30,6 @@ public class ChanchalMishra {
     };
 }
 ```
-</div>
 
 <br>
 
