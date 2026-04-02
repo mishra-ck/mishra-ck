@@ -6,13 +6,14 @@
 
 <!-- ═══════════════════════════ TYPING ANIMATION ═══════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=☕+Coffee+→+Scalable+Backend+Systems;🏗️+Microservices+Architect;🔐+Spring+Security+%7C+JWT+%7C+OAuth2;📦+Kafka+%7C+Redis+%7C+PostgreSQL;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=💡+Ideas→+Scalable+Backend+Systems;🏗️+Microservices+Architect;🔐+Spring+Security+%7C+JWT+%7C+OAuth2;📦+Kafka+%7C+Redis+%7C+PostgreSQL;)](https://git.io/typing-svg)
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 
 ## 🧑‍💻 &nbsp; `About Me`
 
 ```java
+<p align="left">
 public class ChanchalMishra {
 
     private final String  name        = "Chanchal Mishra";
@@ -30,8 +31,8 @@ public class ChanchalMishra {
         "DevOps Docker/K8s/AWS"
     };
 }
+</p>
 ```
-
 <br>
 
 <table>
