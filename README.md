@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 &nbsp; `About Me`
 
-<pre><code>
+```java
 public class ChanchalMishra {
 
     private final String  name        = "Chanchal Mishra";
@@ -31,7 +31,7 @@ public class ChanchalMishra {
     };
 }
 
-</code></pre>
+```
 
 <br>
 
