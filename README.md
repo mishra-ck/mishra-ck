@@ -166,25 +166,6 @@
 </div>
 
 ---
-
-<!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
-
-## 🚀 &nbsp; Featured Projects
-
-<div align="center">
-
-  <a href="https://github.com/mishra-ck/payment-gateway">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishra-ck&repo=payment-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF"/>
-  </a>
-
-  <a href="https://github.com/mishra-ck/Core-Java">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishra-ck&repo=Core-Java&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF"/>
-  </a>
-
-</div>
-
----
-
 <!-- ═══════════════════════════ BLOG POSTS ═══════════════════════════ -->
 
 ## ✍️ &nbsp; Latest from My Blog
