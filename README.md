@@ -181,7 +181,7 @@
 <div align="center">
 
 [![Medium](https://img.shields.io/badge/Medium-My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mishra-ck)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mishra-ck)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanchal-mishra-744024124/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishra-ck)
 
 </div>
