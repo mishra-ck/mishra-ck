@@ -21,7 +21,7 @@
       </tr>
       <tr>
         <td style="padding: 12px 15px; font-weight: 600; color: #8b949e; border-bottom: 1px solid #21262d;">Role</td>
-        <td style="padding: 12px 15px; border-bottom: 1px solid #21262d;">Senior Software Developer</td>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #21262d;"> Technical Lead </td>
       </tr>
       <tr>
         <td style="padding: 12px 15px; font-weight: 600; color: #8b949e; border-bottom: 1px solid #21262d;">Company</td>
